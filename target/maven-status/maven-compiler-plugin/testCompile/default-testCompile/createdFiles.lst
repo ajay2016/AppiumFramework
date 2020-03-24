@@ -1,0 +1,5 @@
+com\appiumframework\utilities\Helper.class
+com\appiumframework\utilities\Utilities.class
+com\appiumframework\testcases\ApiDemoTestPageObject.class
+com\appiumframework\utilities\ScreenshotsWithCurrentTime.class
+com\appiumframework\testcases\ProductsPriceValidation.class

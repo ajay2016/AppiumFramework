@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73299" started-at="2020-03-24T07:30:11 AEDT" finished-at="2020-03-24T07:31:24 AEDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73299" started-at="2020-03-24T07:30:11 AEDT" finished-at="2020-03-24T07:31:24 AEDT">
+      <class name="com.appiumframework.testcases.ApiDemoTestPageObject">
+        <test-method status="PASS" signature="KillAllNodesAndInitReport()[pri:0, instance:com.appiumframework.testcases.ApiDemoTestPageObject@60285225]" name="KillAllNodesAndInitReport" is-config="true" duration-ms="5034" started-at="2020-03-24T07:30:11 AEDT" finished-at="2020-03-24T07:30:16 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillAllNodesAndInitReport -->
+        <test-method status="PASS" signature="ApiDemoTest(java.lang.String)[pri:0, instance:com.appiumframework.testcases.ApiDemoTestPageObject@60285225]" name="ApiDemoTest" duration-ms="38745" started-at="2020-03-24T07:30:16 AEDT" data-provider="InputData" finished-at="2020-03-24T07:30:55 AEDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiDemoTest -->
+        <test-method status="PASS" signature="ApiDemoTest(java.lang.String)[pri:0, instance:com.appiumframework.testcases.ApiDemoTestPageObject@60285225]" name="ApiDemoTest" duration-ms="29450" started-at="2020-03-24T07:30:55 AEDT" data-provider="InputData" finished-at="2020-03-24T07:31:24 AEDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[!@#$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiDemoTest -->
+      </class> <!-- com.appiumframework.testcases.ApiDemoTestPageObject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

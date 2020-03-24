@@ -1,0 +1,10 @@
+com\appiumframework\resources\Listeners.class
+pageObject\Preference.class
+pageObject\ProductPage.class
+com\appiumframework\resources\ExtentReporterNG.class
+com\appiumframework\Base.class
+pageObject\LandingPage.class
+pageObject\PreferencesDepedencies.class
+com\appiumframework\testdata\TestData.class
+pageObject\CartPage.class
+pageObject\FormPageGeneralStore.class

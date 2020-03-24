@@ -1,0 +1,1 @@
+C:\Users\ajayr\AppData\Local\Android\Sdk\emulator\emulator -avd AjayEmulator

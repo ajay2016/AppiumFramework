@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="139752" started-at="2020-03-24T00:13:07Z" finished-at="2020-03-24T00:15:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="139752" started-at="2020-03-24T00:13:07Z" finished-at="2020-03-24T00:15:27Z">
+      <class name="com.appiumframework.testcases.ApiDemoTestPageObject">
+        <test-method status="PASS" signature="ApiDemoTest(java.lang.String)[pri:0, instance:com.appiumframework.testcases.ApiDemoTestPageObject@21507a04]" name="ApiDemoTest" duration-ms="29108" started-at="2020-03-24T11:14:28Z" data-provider="InputData" finished-at="2020-03-24T11:14:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiDemoTest -->
+        <test-method status="PASS" signature="ApiDemoTest(java.lang.String)[pri:0, instance:com.appiumframework.testcases.ApiDemoTestPageObject@21507a04]" name="ApiDemoTest" duration-ms="29191" started-at="2020-03-24T11:14:57Z" data-provider="InputData" finished-at="2020-03-24T11:15:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[!@#$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiDemoTest -->
+      </class> <!-- com.appiumframework.testcases.ApiDemoTestPageObject -->
+      <class name="com.appiumframework.testcases.ProductsPriceValidation">
+        <test-method status="PASS" signature="KillAllNodesAndInitReport()[pri:0, instance:com.appiumframework.testcases.ProductsPriceValidation@2d9d4f9d]" name="KillAllNodesAndInitReport" is-config="true" duration-ms="5019" started-at="2020-03-24T11:13:07Z" finished-at="2020-03-24T11:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillAllNodesAndInitReport -->
+        <test-method status="PASS" signature="priceValidationTest(java.lang.String, java.lang.String)[pri:0, instance:com.appiumframework.testcases.ProductsPriceValidation@2d9d4f9d]" name="priceValidationTest" duration-ms="38038" started-at="2020-03-24T11:13:12Z" data-provider="InputData1" finished-at="2020-03-24T11:13:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Argentina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceValidationTest -->
+        <test-method status="PASS" signature="priceValidationTest(java.lang.String, java.lang.String)[pri:0, instance:com.appiumframework.testcases.ProductsPriceValidation@2d9d4f9d]" name="priceValidationTest" duration-ms="38365" started-at="2020-03-24T11:13:50Z" data-provider="InputData1" finished-at="2020-03-24T11:14:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Australia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceValidationTest -->
+      </class> <!-- com.appiumframework.testcases.ProductsPriceValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
