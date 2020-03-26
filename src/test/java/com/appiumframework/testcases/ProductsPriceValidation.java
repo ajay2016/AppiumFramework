@@ -84,7 +84,7 @@ public class ProductsPriceValidation extends Base {
 			Sum=Sum + amount1;			
 			
 		}
-		System.out.println("Total price after adding items  $"+Sum);
+		System.out.println("Total price after adding items is   $"+Sum);
 		/*
 		 * //com.androidsample.generalstore:id/productPrice String Price1 =
 		 * driver.findElementsById("com.androidsample.generalstore:id/productPrice").get
